@@ -18,3 +18,10 @@ class Lead(Base):
     atividade_principal = Column(String)
     email = Column(String)
     tier = Column(String)
+    
+    # Novos Campos de Inteligência Elite
+    score = Column(Integer, default=0) # Lead Score 0-100
+    status_funil = Column(String, default="Frio") # Frio, Prospecção, Qualificação, Fechamento
+    risco_juridico = Column(String) # Baixo, Médio, Alto
+    capital_social = Column(Float, default=0.0)
+    ultima_interacao = Column(String)
