@@ -5,3 +5,5 @@ rich
 ruff
 pytest
 pytest-asyncio
+pytest
+ruff
