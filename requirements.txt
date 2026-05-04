@@ -9,3 +9,4 @@ pytest
 ruff
 google-generativeai
 python-dotenv
+streamlit
