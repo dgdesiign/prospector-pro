@@ -1,0 +1,11 @@
+id,nome,endereco,telefone,site,rating,user_ratings_total,price_level,cnpj,razao_social,atividade_principal,email,tier
+1,"Energia Salvador, Ba 4","Rua Principal, 400, Salvador, Ba",+557199999-1004,https://www.energiasolar4.com.br,4.5,45,0,,,,,B
+2,"Energia Salvador, Ba 2","Rua Principal, 200, Salvador, Ba",+557199999-1002,https://www.energiasolar2.com.br,4.0,25,2,,,,,B
+3,"Energia Salvador, Ba 5","Rua Principal, 500, Salvador, Ba",+557199999-1005,https://www.energiasolar5.com.br,4.0,55,1,,,,,B
+4,"Energia Salvador, Ba 1","Rua Principal, 100, Salvador, Ba",+557199999-1001,https://www.energiasolar1.com.br,4.5,15,1,,,,,C
+5,"Energia Salvador, Ba 3","Rua Principal, 300, Salvador, Ba",+557199999-1003,https://www.energiasolar3.com.br,3.5,35,3,,,,,C
+6,"Lojas Erechim Rs 7","Rua Principal, 700, Erechim Rs",+557199999-1007,"https://www.lojasdemoveis,erechimrs7.com.br",4.5,75,3,,,,,A
+7,"Lojas Erechim Rs 10","Rua Principal, 1000, Erechim Rs",+557199999-1010,"https://www.lojasdemoveis,erechimrs10.com.br",4.5,105,2,,,,,A
+8,"Lojas Erechim Rs 8","Rua Principal, 800, Erechim Rs",+557199999-1008,"https://www.lojasdemoveis,erechimrs8.com.br",4.0,85,0,,,,,B
+9,"Lojas Erechim Rs 6","Rua Principal, 600, Erechim Rs",+557199999-1006,"https://www.lojasdemoveis,erechimrs6.com.br",3.5,65,2,,,,,C
+10,"Lojas Erechim Rs 9","Rua Principal, 900, Erechim Rs",+557199999-1009,"https://www.lojasdemoveis,erechimrs9.com.br",3.5,95,1,,,,,C

@@ -1,0 +1,7 @@
+httpx
+python-dotenv
+sqlalchemy
+rich
+ruff
+pytest
+pytest-asyncio
